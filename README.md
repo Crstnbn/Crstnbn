@@ -7,7 +7,7 @@ Me llamo Cristian Boin, tengo 24 años, actualmente vivo en Santiago de Chile y 
 
 ## 2023✨
 
-Este año terminé la carrera de ingeniría en computación e informática en la universidad Andrés Bello en Santiago. 
+Este año terminé la carrera de ingeniería en computación e informática en la universidad Andrés Bello en Santiago. 
 Estoy entusiamado con entrar al mundo laboral de la informática, con seguir aprendiendo y encontrar mi lugar en este mundo.
 ```
 
